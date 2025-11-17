@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning deep learning for chatbot
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me: wesleykamathe@gmail.com
+- Portfolio: wesleykamathe.vercel.app
 
 <!---
 Lucien-Wesley/Lucien-Wesley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
